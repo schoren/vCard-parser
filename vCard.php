@@ -10,7 +10,7 @@ namespace vCardParser;
  * @see RFC 2426, RFC 2425
  * @version 0.4.4
  */
-class vCard implements Countable, Iterator
+class vCard implements \Countable, \Iterator
 {
 
     const MODE_ERROR = 'error';
