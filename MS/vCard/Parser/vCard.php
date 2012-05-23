@@ -2,6 +2,8 @@
 
 namespace MS\vCard\Parser;
 
+use \Exception;
+
 /**
  * vCard class for parsing a vCard and/or creating one
  *
