@@ -1,6 +1,6 @@
 <?php
 
-namespace vCardParser;
+namespace MS\vCard\Parser;
 
 /**
  * vCard class for parsing a vCard and/or creating one
